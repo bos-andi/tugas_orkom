@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UAS ORKOM ANDI</title>
+    <style>
+        .body {font-size: medium;}
+        
+    </style>
+</head>
+<body>
+    <h1 align="center">BIODATA MAHASISWA UNUSIDA</h1>
+        <table align="center"> PERKENALKAN SAYA MAHASISWA UNUSIDA ANGKATAN 2021
+             <tr> 
+                <td>
+                NAMA 
+                </td>
+                <td>:</td>
+                <td>MUHAMMAD ANDI</td>
+            </tr>
+            <tr>
+                <td>
+                    PRODI
+                </td>
+                <td>
+                    :
+                </td>
+                <td>
+                    TEKNIK INFORMATIKA
+                </td>
+                </td>
+            </tr>
+            <tr>
+                <td>TAHUN </td>
+                <td>:</td>
+                <td>2021</td>
+            </tr>
+        </table>
+    
+</body>
+</html>
